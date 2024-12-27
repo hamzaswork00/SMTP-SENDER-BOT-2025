@@ -19,4 +19,10 @@ Make sure you have Python 3.x installed on your system before starting.
 1. Clone this repository to your local machine:
    ```bash
    git clone <repository_url>
-   cd sender44
+   cd sender44`
+   ```
+
+## Contact Me 
+Contact me by telegram to get acces code 
+TG: error_404_ma
+ 
