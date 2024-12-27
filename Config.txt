@@ -1,0 +1,4 @@
+HOST|PORT|USER|PASSWORD|SSL
+smtp.gmail.com|587|example@gmail.com|password123|TLS
+NameSender|SenderName
+EmailSender|example@gmail.com
